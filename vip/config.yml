@@ -1,0 +1,5 @@
+databases:
+  mysql:
+    - fruit
+  sqlserver:
+    - fruit2
